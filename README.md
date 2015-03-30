@@ -1,6 +1,6 @@
 # StartupMatchmaker
 
-An exercise in responsive coding. 
+An exercise in responsive coding. Test out in different screen sizes and devices.
 
 Technologies Used:
 
